@@ -1,0 +1,25 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE Metadata
+.idea/
+.vscode/
+
+# Scraped Data Exports (Keep directory structure)
+data_exports/*
+!data_exports/.gitkeep
+riauterkini_sosial.csv
+riauterkini_sosial.xlsx
+riauterkini_sosial.json
+
+# Logs & Temporary files
+*.log
+.DS_Store
